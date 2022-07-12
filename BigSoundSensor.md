@@ -11,16 +11,7 @@
   * 1 x resistencia 220
 
 
-## ESP32 CODE
 
-### Quick Instructions
-
-  * If this is the first time you use ESP32, see how to setup environment for ESP32 on Arduino IDE.
-  * Do the wiring as above image.
-  * Connect the ESP32 board to your PC via a micro USB cable
-  * Open Arduino IDE on your PC.
-  * Select the right ESP32 board (e.g. ESP32 Dev Module) and COM port.
-    Copy the below code and paste it to Arduino IDE.
 
 ### Esquema de conexion
 
