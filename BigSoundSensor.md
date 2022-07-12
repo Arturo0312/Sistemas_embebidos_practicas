@@ -22,8 +22,9 @@
   * Select the right ESP32 board (e.g. ESP32 Dev Module) and COM port.
     Copy the below code and paste it to Arduino IDE.
 
+### Esquema de conexion
 
-
+![](source/SoundSchema.png)
 
 
 
