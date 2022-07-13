@@ -11,6 +11,16 @@
   * 1 x resistencia 220
 
 
+### Introdución al sensor BigSound
+
+Se trata de un sensor que detecta sonido, especialmente sonidos altos, cuenta con 4 pines y 2 indicadores led; el primero indica la entrada de energia, mientras que el segundo indica si se ha detectado un sonido. Ademas cuenta con un regulador el cual aumenta o disminuye la tolerancia al volumen del ruido el cual avtica el indicadr
+
+  * AD = Salida Analoga
+  * G = Salida a tierra 	
+  * + = Entrada de energia
+  * DO = Salida Digital
+
+
 
 
 ### Esquema de conexion
