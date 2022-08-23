@@ -35,16 +35,18 @@ del contenedor.
 
 Para disepensar la comida el usuario presiona el boton por medio de blynk lo que activa una rotacion del dispensador que libera una porcion de croquetas.
 
+![](source/dis1.jpeg)
+
 
 
 
 ### Esquema de conexion
 
-![](source/SoundSchema.png)
+![](source/dis2.png)
 
 
 
-### Codigo del BigSound ArduinoIDE
+### Codigo de Blynk y servomotor
 
   El siguiente codigo conecta con el template creado en blynk y realiza la rotacion de el servomotor cuando se presiona el boton de encendio y apagado
   
